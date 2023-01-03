@@ -1,0 +1,29 @@
+[2022-10-24 11:24:05,479 - main.py:7 - ERROR]: test error
+[2022-10-24 11:27:28,630 - Button_label.py:95 - ERROR]: test error
+[2022-10-24 11:28:28,302 - Button_label.py:95 - ERROR]: test error
+[2022-10-24 11:41:59,058 - main.py:7 - ERROR]: test error
+[2022-10-24 11:42:19,552 - main.py:7 - ERROR]: test error
+[2022-10-24 11:42:32,292 - main.py:7 - ERROR]: test error
+[2022-10-24 11:42:38,165 - main.py:7 - ERROR]: test error
+[2022-10-24 11:43:26,473 - main.py:7 - ERROR]: test error
+[2022-10-24 11:43:41,105 - main.py:7 - ERROR]: test error
+[2022-10-24 11:45:49,687 - main.py:7 - ERROR]: test error
+[2022-10-24 15:16:25,361 - Button_label.py:124 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 15:32:11,043 - Button_label.py:124 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 15:32:46,461 - Button_label.py:124 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 15:33:46,163 - Button_label.py:125 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 15:35:36,558 - Button_label.py:125 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 15:40:43,066 - Button_label.py:125 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 15:40:59,877 - Button_label.py:125 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 15:41:19,799 - Button_label.py:125 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:50:47,698 - Button_label.py:129 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:52:04,161 - Button_label.py:131 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:52:15,707 - Button_label.py:131 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:53:11,734 - Button_label.py:132 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:53:18,555 - Button_label.py:132 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:53:31,832 - Button_label.py:132 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:56:11,670 - Button_label.py:134 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:56:24,706 - Button_label.py:134 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-24 16:59:56,697 - Button_label.py:134 - ERROR]: error<attribute 'message' of 'exceptions.BaseException' objects>
+[2022-10-25 14:17:49,177 - Button_label.py:169 - ERROR]: errorstring index out of range
+[2022-10-26 11:32:46,786 - Button_label.py:170 - ERROR]: errorstring index out of range
